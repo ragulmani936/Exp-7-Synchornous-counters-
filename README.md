@@ -99,32 +99,32 @@ endmodule
 
 
 ### UP COUNTER:
-![output]()
+![output](https://user-images.githubusercontent.com/93901857/201064110-26df27d4-9897-4f5b-9a69-b1829269ed8c.png)
 
 
 ### DOWNCOUNTER:
-![output]()
+![output](https://user-images.githubusercontent.com/93901857/201305443-47033f0d-1c43-4b49-9a00-b8ae07b271ea.png)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 ### UP COUNTER:
-![output]()
+![output](https://user-images.githubusercontent.com/93901857/201064120-e2e79d7b-8b0d-4d49-9333-2322b85d1b46.png)
 
 
 ### DOWNCOUNTER:
-![output]()
+![output](https://user-images.githubusercontent.com/93901857/201306067-89ff8404-7c98-4966-9f53-d1b80c2be57b.png)
 
 
 
 ### TRUTH TABLE 
 
 ### UP COUNTER:
-![output]()
+![output](https://user-images.githubusercontent.com/93901857/200124061-ad25ab47-d9cf-4a8f-9d70-d31273557a67.jpg)
 
 
 ### DOWNCOUNTER:
-![output]()
+![output](https://user-images.githubusercontent.com/93901857/200124063-e97b22e5-7cdd-4345-a9be-bb8b055dbb4b.jpg)
 
 
 
