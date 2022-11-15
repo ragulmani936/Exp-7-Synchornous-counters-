@@ -60,7 +60,7 @@ RegisterNumber: 212221230080
 ~~~
 ~~~
 ### UP COUNTER:
-~~~
+
 module upcounter(clock,reset,up);
 input clock,reset;
 output reg[0:2] up;
@@ -73,9 +73,9 @@ up=up+1;
 end
 endmodule
 
-~~~
+
 ### DOWN COUNTER:
-~~~
+
 module DOWN(clock,reset,down);
 input clock,reset;
 output reg[2:0] down;
@@ -87,7 +87,7 @@ else
 down=down-1;
 end
 endmodule
-~~~
+
 ~~~
 
 
